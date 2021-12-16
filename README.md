@@ -13,14 +13,22 @@ Created a Car Damage Detection system with computer vision and deep learning. Th
 
 Image Dataset : 
 
+## App Demo
+
+
+
 ## Aim
 
 The rationale for such a model is that it can be used by insurance companies for faster processing of claims if users can upload pics and they can assess damage and severity from the car damage detective web app. 
 
 
-## App Demo
+## Built With
 
-
+* Python
+* OpenCV
+* TensorFlow
+* Flask
+* Html
 
 
 ## Contributing
