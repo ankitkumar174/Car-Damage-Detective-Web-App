@@ -14,6 +14,7 @@ Created a Car Damage Detection system with computer vision and deep learning. Th
 Image Dataset : 
 
 ## App Demo
+![Car Damage Detection - Google Chrome 2021-12-18 19-06-26 (1)](https://user-images.githubusercontent.com/85494641/146643341-1e112294-f61b-4202-8f21-6afa4fd572f2.gif)
 
 
 
