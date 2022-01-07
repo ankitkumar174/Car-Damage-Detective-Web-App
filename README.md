@@ -13,7 +13,7 @@ Created a Car Damage Detection system with computer vision and deep learning. Th
 
 Image Dataset : https://drive.google.com/file/d/1ForsvSTOwGZE03YuODRRFWjQg5QNHUb8/view?usp=sharing
 
-Download Car Damage Detection Models : 
+Download Car Damage Detection Models : https://drive.google.com/file/d/1b9T_m7wi-XlHFZd7blNJ_pDcjdXCqmP1/view?usp=sharing
 
 ## App Demo
 
