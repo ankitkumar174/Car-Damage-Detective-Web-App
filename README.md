@@ -4,7 +4,7 @@
 Car damage Detection web using using Vgg16 model and Flask.
 
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs) [![Github All Releases](https://img.shields.io/github/downloads/ankitkumar174/Car-Damage-Detective-Web-App/total.svg)]()
-![Contributors](https://img.shields.io/github/contributors/ankitkumar174/Car-Damage-Detective-Web-App?color=dark-green) ![Issues](https://img.shields.io/github/issues/ankitkumar174/Car-Damage-Detective-Web-App) 
+![Issues](https://img.shields.io/github/issues/ankitkumar174/Car-Damage-Detective-Web-App) 
 
 
 ## About Car Damage Detection
